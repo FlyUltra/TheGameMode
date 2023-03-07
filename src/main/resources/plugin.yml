@@ -1,0 +1,8 @@
+name: TheGameMode
+main: cz.flyultra.Main
+author: Fly_Ultra
+version: 1.0
+api-version: 1.19
+
+commands:
+  gamemode:
